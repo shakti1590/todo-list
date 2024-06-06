@@ -3,7 +3,7 @@
 
 #### Technology Used:
  - React Js
- - Java Script
+ - JavaScript
 
 
  ## Install
